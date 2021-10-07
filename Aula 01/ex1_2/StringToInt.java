@@ -1,4 +1,4 @@
-package Ex1_2;
+package ex1_2;
 
 public class StringToInt{
 	static boolean checkIfInteger(String word) {
