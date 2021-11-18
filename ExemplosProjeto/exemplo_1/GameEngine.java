@@ -1,9 +1,5 @@
 package exemplo_1;
 
-<<<<<<< HEAD
-=======
-import java.awt.event.KeyEvent;
->>>>>>> branch 'master' of git@github.com:Shrimpo22/POO-Classes.git
 import pt.iul.ista.poo.gui.ImageMatrixGUI;
 import pt.iul.ista.poo.observer.*;
 import pt.iul.ista.poo.utils.Point2D; 
